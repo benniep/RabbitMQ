@@ -1,6 +1,5 @@
 ﻿using System;
 using RabbitMQ.Client;
-using Newtonsoft.Json;
 
 namespace SendMessage
 {
